@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_product_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:text="Product Name"/>
+
+            <me.zhanghai.android.materialratingbar.MaterialRatingBar
+                android:id="@+id/total_star_rating"
+                style="@style/Widget.MaterialRatingBar.RatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/margin_value_5dp"
+                android:layout_marginTop="@dimen/margin_value_5dp"
+                android:isIndicator="true"
+                android:maxHeight="20dp"
+                android:minHeight="20dp"
+                android:numStars="5"
+                android:stepSize="0.25"
+                app:mrb_progressBackgroundTint="@color/colorPrimary"
+                app:mrb_progressTint="@color/colorPrimary"
+                app:mrb_secondaryProgressTint="@color/colorPrimary" />
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "849907407837",
+    "firebase_url": "https://projectfirebase-41793.firebaseio.com",
+    "project_id": "projectfirebase-41793",
+    "storage_bucket": "projectfirebase-41793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849907407837:android:02a0a1c9ae4997fb",
+        "android_client_info": {
+          "package_name": "com.putuguna.insertcolldoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849907407837-n85khceblsu8qmse6q28p7bm66sk3mgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putuguna.insertcolldoc",
+            "certificate_hash": "5036fcffa634112d05029f215fb97c52e0975ced"
+          }
+        },
+        {
+          "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_W7GBWSNjoTZR0lEYO3_5A2_wcU2CzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849907407837:android:4db6443a0ef17341",
+        "android_client_info": {
+          "package_name": "com.putuguna.insertimagetofstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849907407837-opo95n87p38potkg7sjm027br7lh4o21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putuguna.insertimagetofstorage",
+            "certificate_hash": "5036fcffa634112d05029f215fb97c52e0975ced"
+          }
+        },
+        {
+          "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_W7GBWSNjoTZR0lEYO3_5A2_wcU2CzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849907407837:android:56b6068588fa6af7",
+        "android_client_info": {
+          "package_name": "com.putuguna.ratinggoogleplaystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849907407837-l71vkfler6ghrb8onhub5vv5cg0n2rj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.putuguna.ratinggoogleplaystore",
+            "certificate_hash": "5036fcffa634112d05029f215fb97c52e0975ced"
+          }
+        },
+        {
+          "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7_W7GBWSNjoTZR0lEYO3_5A2_wcU2CzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849907407837-t8gint7ee10mkr90avj85eue4iam4h5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
